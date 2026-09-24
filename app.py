@@ -14,7 +14,7 @@ st.set_page_config(
 
 st.title("📊 Bolsa de Valores Quito BI")
 st.write("Análisis financiero interactivo de empresas")
-st.caption("Elaborado por: Carlos Carrillo")
+st.caption("Elaborado por: Gabriela Flores")
 
 # ---------------------------------------------------------
 # BARRA LATERAL
